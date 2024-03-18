@@ -1,0 +1,16 @@
+node_modules/
+
+dist/
+
+.vscode/
+.idea/
+*.iml
+
+npm-debug.log
+
+.env
+
+scraped_data.json
+scraped_data2.json
+
+.html
